@@ -6,11 +6,11 @@
   
   	•	A scrollable list of cuisines with names and thumbnail images.
    
-     ![simulator_screenshot_67882A18-B8AC-4D91-88B1-8D66BA0E6143](https://github.com/user-attachments/assets/47d6242c-5482-435c-b4ac-75c463c0223c)
+  ![simulator_screenshot_67882A18-B8AC-4D91-88B1-8D66BA0E6143](https://github.com/user-attachments/assets/47d6242c-5482-435c-b4ac-75c463c0223c)
      
   	•	A detail view displaying larger images, cuisine type, and external links for more information.
    
-    ![simulator_screenshot_D53A5A9F-5260-4553-95FB-6C4CB1961259](https://github.com/user-attachments/assets/3ce4c2ba-b131-42b9-9752-b75bfc4eec61)
+  ![simulator_screenshot_D53A5A9F-5260-4553-95FB-6C4CB1961259](https://github.com/user-attachments/assets/3ce4c2ba-b131-42b9-9752-b75bfc4eec61)
 
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
